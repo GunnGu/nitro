@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "gh-cli": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "computedHash": "cbe644b0c6760ae2a1eaafa39133920d889331327065d92a131675a665273e56"
+    },
+    "lex-scripta-structurer": {
+      "source": "kuil09/lex-scripta",
+      "sourceType": "github",
+      "computedHash": "ddab86660240b3245fce69eab4dc60ca577de6de24453f6c9a85de60020554bb"
+    }
+  }
+}
